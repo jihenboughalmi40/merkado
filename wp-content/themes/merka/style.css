@@ -1,0 +1,549 @@
+/*
+Theme Name: WP Bootstrap
+Theme URI: https://www.tutowp.fr/tutowp
+Author: TutoWP
+Author URI: https://www.tutowp.fr/tutowp
+Description: Thème WordPress basé sur Bootstrap
+Version: 1.0
+*/
+
+img{
+    width: 220px;
+    height: 50px;
+    
+ }
+
+ 
+ body {
+     font-family: Arial;
+     width: 100%;
+   }
+   
+   * {
+     box-sizing: border-box;
+   }
+   
+   form.example input[type=text] {
+     padding: 10px;
+     font-size: 17px;
+     border: 1px solid grey;
+     float: left;
+     width: 80%;
+     background: #f1f1f1;
+   }
+   
+   form.example button {
+     float: left;
+     width: 20%;
+     padding: 10px;
+     background: #2196F3;
+     color: white;
+     font-size: 17px;
+     border: 1px solid grey;
+     border-left: none;
+     cursor: pointer;
+   }
+   
+   form.example button:hover {
+     background: #0b7dda;
+   }
+   
+   form.example::after {
+     content: "";
+     clear: both;
+     display: table;
+   }
+ 
+
+  /* Pagination */
+  .blog-pagination {
+    margin-bottom: 4rem;
+  }
+  .blog-pagination > .btn {
+    border-radius: 2rem;
+  }
+  
+  /*
+   * Blog posts
+   */
+  .blog-post {
+    margin-bottom: 4rem;
+  }
+  .blog-post-title {
+    margin-bottom: .25rem;
+    font-size: 2.5rem;
+  }
+  .blog-post-meta {
+    margin-bottom: 1.25rem;
+    color: #999;
+  }
+  
+  /*
+   * Footer
+   */
+   ul {
+    margin: 0px;
+    padding: 0px;
+}
+.footer-section{
+background-color: ghostwhite;
+}
+.footer-section {
+
+  background:#151414;
+  position: relative;
+}
+.footer-cta {
+  border-bottom: 1px solid #373636;
+}
+.single-cta i {
+  color: #ff5e14;
+  font-size: 30px;
+  float: left;
+  margin-top: 8px;
+}
+.cta-text {
+  padding-left: 15px;
+  display: inline-block;
+}
+.cta-text h4 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+.cta-text span {
+  color: #757575;
+  font-size: 15px;
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {}
+a,
+a:hover,
+a:focus,
+a:active {
+    text-decoration: none;
+    outline: none;
+}
+
+a,
+a:active,
+a:focus {
+    color: #333;
+    text-decoration: none;
+    transition-timing-function: ease-in-out;
+    -ms-transition-timing-function: ease-in-out;
+    -moz-transition-timing-function: ease-in-out;
+    -webkit-transition-timing-function: ease-in-out;
+    -o-transition-timing-function: ease-in-out;
+    transition-duration: .2s;
+    -ms-transition-duration: .2s;
+    -moz-transition-duration: .2s;
+    -webkit-transition-duration: .2s;
+    -o-transition-duration: .2s;
+}
+
+
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  width: 100%;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+img {
+max-width: 100%;
+height: auto;
+}
+section {
+    padding: 60px 0;
+   /* min-height: 100vh;*/
+}
+.blog-footer {
+  padding: 2.5rem 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: .05rem solid #e5e5e5;
+}
+.blog-footer p:last-child {
+  margin-bottom: 0;
+ margin-bottom: 4rem;
+}
+.blog-post-title {
+  margin-bottom: .25rem;
+  font-size: 2.5rem;
+}
+.blog-post-meta {
+  margin-bottom: 1.25rem;
+  color: #999;
+}
+
+/*
+ * Footer
+ */
+.blog-footer {
+  padding: 2.5rem 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: .05rem solid #e5e5e5;
+}
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}
+
+
+
+ul{
+  list-style: none;
+  }
+  li{
+  text-align: justify;
+  }
+  .footer{
+  background-color:#E2E1E0;
+  
+  padding: 30px ;
+  margin: 0;
+  
+  }
+  .social-links :hover{text-decoration: underline; color:whitesmoke}
+  
+  
+  li{
+    list-style: none;
+  }
+  
+  
+  .copy{
+  background-color: black;
+  padding: 35px;
+ 
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid red ;
+  }
+  
+  .footer-col{
+    text-align: right;
+
+  width: 25%;
+  padding: 0;
+  
+
+
+  
+  
+  }
+  .footer-col:nth-child(2){
+    padding: 0px 35px;
+  }
+  .footer-col h4{
+  font-size: 18px;
+  color: #000;
+ 
+  margin-bottom: 35px;
+  font-weight: 500;
+  position: relative;
+  } 
+  .footer-col ul li:not(:last-child){
+  margin-bottom: 10px;
+  }
+  .footer-col ul li a{
+  font-size: 16px;
+  text-transform: capitalize;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 300;
+  color: #bbbbbb;
+  display: block;
+  transition: all 0.3s ease;
+  
+  }
+  .footer-col ul li a:hover{
+  color: #ffffff;
+  padding-left: 8px;
+  }
+  .footer-col .social-links a{
+  display:inline-block;
+  flex-wrap: wrap;
+  height: 40px;
+  width: 40px;
+  background-color:black;
+  margin:0 10px 10px 0;
+  text-align: center;
+  line-height: 40px;
+  border-radius: 50%;
+  color: #ffffff;
+  transition: all 0.5s ease;
+  }
+  .footer-col .social-links a:hover{
+  color: #24262b;
+  background-color: #ffffff;
+  justify-content: space-between;
+  justify-content: space-around;
+  }
+  .social-links svg {
+    margin-right: 30px;
+  }
+  
+  @media(max-width: 767px){
+  .footer-col{
+  width: 70%;
+  margin-bottom: 30px;
+  
+  
+  }
+  }
+  @media(max-width: 574px){
+  .footer-col{
+  width: 100%;
+  }
+  }
+  h3{color:red}
+  hr{color:red;}
+  input[type=submit] {
+    width: 100px;
+  
+  }
+  input {
+    display: inline-block;
+    box-sizing: border-box;
+  }
+   
+  input[type="submit"] {
+    height: 52px;
+    width:120px ;
+    border-radius: 0 25px 25px 0;
+    background-color: red;
+  
+    padding: 16px;
+    font-size: 20px;
+    position: relative;
+    left: -9px;
+    border: none;
+    cursor: pointer;
+   }
+   .pa{background-color:#E2E1E0 ;font-size: small;}
+  
+      input {
+        display: inline-block;
+        box-sizing: border-box;
+    }
+
+    div#slider figure {
+      position: relative;; 
+      width: 600%;
+      margin: 0;
+      padding: 0;
+      font-size: 0;
+      text-align: left;
+    }
+   
+
+   
+/*Clearing Floats*/
+.cf:before, .cf:after{
+  content:"";
+  display:table;
+}
+
+.cf:after{
+  clear:both;
+}
+
+.cf{
+  zoom:1;
+}    
+/* Form wrapper styling */
+
+.search-wrapper {
+  width: 450px;
+  margin: 150px auto 50px auto;
+  border-radius: 40px;
+background: transparent;
+  box-shadow: 0 4px 20px -2px #e9e9e9;
+}
+
+/* Form text input */
+
+.search-wrapper input {
+padding-left: 20px;
+  width: 330px;
+  height: 20px;
+  padding: 10px 5px;
+  float: left;   
+  font: bold 13px 'lucida sans', 'trebuchet MS', 'Tahoma';
+  border: 0;
+  background: #fff;
+  border-radius: 40px;
+  border-top-style: none;
+}
+
+.search-wrapper input:focus {
+  outline: 0;
+  background: #fff;
+  box-shadow: 0 0 2px rgba(0,0,0,0.8) inset;
+}
+
+.search-wrapper input::-webkit-input-placeholder {
+ color: #999;
+ font-weight: normal;
+ font-style: italic;
+padding-left: 20px;
+}
+
+.search-wrapper input:-moz-placeholder {
+  
+  color: #999;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.search-wrapper input:-ms-input-placeholder {
+  color: #999;
+  font-weight: normal;
+  font-style: italic;
+border-style: none;
+}   
+
+/* Form submit button */
+.search-wrapper button {
+  overflow: visible;
+  position: relative;
+  float: right;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  height: 40px;
+  width: 110px;
+  font: 13px/40px 'lucida sans', 'trebuchet MS', 'Tahoma';
+  color: #fff;
+  text-transform: uppercase;
+  background: #198cff;
+  border-radius: 40px;
+  text-shadow: 0 -1px 0 rgba(0, 0 ,0, .3);
+}  
+
+.search-wrapper button:hover{    
+/*     background: #e54040; */
+}  
+
+.search-wrapper button:active,
+.search-wrapper button:focus{  
+  background: #198cff;
+  outline: 0;  
+}
+
+.search-wrapper button:focus:before,
+.search-wrapper button:active:before{
+      border-right-color: #c42f2f;
+}     
+
+.search-wrapper button::-moz-focus-inner { /* remove extra button spacing for Mozilla Firefox */
+  border: 0;
+  padding: 0;
+}      

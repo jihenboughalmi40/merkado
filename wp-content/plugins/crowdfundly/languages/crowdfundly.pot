@@ -1,0 +1,1965 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Crowdfundly\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-22 12:14+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: crowdfundly\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+"X-Poedit-SearchPathExcluded-2: admin/js\n"
+"X-Poedit-SearchPathExcluded-3: admin/css\n"
+"X-Poedit-SearchPathExcluded-4: public/js\n"
+"X-Poedit-SearchPathExcluded-5: public/css\n"
+"X-Poedit-SearchPathExcluded-6: .gitignore\n"
+"X-Poedit-SearchPathExcluded-7: .distignore\n"
+"X-Poedit-SearchPathExcluded-8: LICENSE.txt\n"
+
+#: admin/class-crowdfundly-admin.php:119
+msgid "Warning"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:120
+msgid "Email not Found"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:121
+msgid "API Key not provided!"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:122
+msgid "Success"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:123
+msgid "Successfully Authenticated!"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:124
+msgid "Failed"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:125
+msgid "Authentication failed! Please enter a valid key."
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:126
+msgid "Connecting..."
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:127
+#: admin/partials/crowdfunly-sign-in.php:68
+msgid "Connect"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:128
+msgid "Successfully Disconnected!"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:129
+msgid "Disconnecting..."
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:130
+msgid "Saving..."
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:131
+msgid "Error"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:132
+msgid "Someting went wrong"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:133
+msgid "Settings saved successfully"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:134
+msgid "Settings Not Saved!"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:135
+msgid "Click OK to continue"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:136
+#: admin/includes/crowdfundly-settings-page-helper.php:87
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:224
+msgid "Crowdfundly Dashboard"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:225
+msgid "Dashboard"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:230
+msgid "Crowdfundly Settings"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:231
+#: admin/includes/crowdfundly-settings-page-helper.php:84
+#: admin/includes/crowdfundly-settings-page-helper.php:90
+msgid "Settings"
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:310
+msgid "Something went wrong! Please try again later."
+msgstr ""
+
+#: admin/class-crowdfundly-admin.php:698 admin/class-crowdfundly-admin.php:700
+msgid "Crowdfundly Campaign Product"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:10
+#: public/partials/organization/template-one.php:174
+#: public/partials/organization/template-two.php:153
+msgid "All Campaigns"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:28
+#: admin/customizer/controls/organization-page.php:28
+msgid "Page Background Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:43
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:57
+msgid "Search Bar"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:60
+#: admin/customizer/controls/all-campaign-page.php:575
+#: admin/customizer/controls/organization-page.php:58
+#: admin/customizer/controls/organization-page.php:379
+#: admin/customizer/controls/single-campaign-page.php:893
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:65
+#: pagebuilders/elementor/widgets/organization-widget.php:97
+#: pagebuilders/elementor/widgets/organization-widget.php:526
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1924
+msgid "Hide Section"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:75
+#: pagebuilders/elementor/widgets/organization-widget.php:312
+msgid "Title"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:94
+#: admin/customizer/controls/organization-page.php:286
+msgid "Title Font Size"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:113
+#: admin/customizer/controls/organization-page.php:268
+msgid "Title Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:128
+msgid "Search Bar Background Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:143
+msgid "Search Icon Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:158
+msgid "Search Input Border Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:173
+msgid "Search Input Placeholder Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:188
+msgid "Search Button Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:206
+msgid "Search Button Text Font Size"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:225
+msgid "Search Button Background Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:240
+msgid "Search Button Border Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:255
+msgid "Search Button Hover Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:270
+msgid "Search Button Hover Background Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:285
+msgid "Search Button Hover Border Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:297
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:533
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1624
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1982
+msgid "Card"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:318
+msgid "Campaigns Per Page"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:333
+msgid "Grid Column"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:336
+#: admin/customizer/controls/organization-page.php:311
+#: admin/customizer/controls/organization-page.php:453
+#: admin/customizer/controls/organization-page.php:490
+#: admin/customizer/controls/single-campaign-page.php:145
+#: admin/customizer/controls/single-campaign-page.php:459
+#: admin/customizer/controls/single-campaign-page.php:967
+#: admin/customizer/controls/single-campaign-page.php:1004
+msgid "Select Option"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:337
+#: admin/customizer/controls/organization-page.php:491
+#: admin/customizer/controls/single-campaign-page.php:1005
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:591
+#: pagebuilders/elementor/widgets/organization-widget.php:596
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1994
+msgid "One Column"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:338
+#: admin/customizer/controls/organization-page.php:492
+#: admin/customizer/controls/single-campaign-page.php:1006
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:592
+#: pagebuilders/elementor/widgets/organization-widget.php:597
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1995
+msgid "Two Column"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:339
+#: admin/customizer/controls/organization-page.php:493
+#: admin/customizer/controls/single-campaign-page.php:1007
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:593
+#: pagebuilders/elementor/widgets/organization-widget.php:598
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1996
+msgid "Three Column"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:340
+#: admin/customizer/controls/organization-page.php:494
+#: admin/customizer/controls/single-campaign-page.php:1008
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:594
+#: pagebuilders/elementor/widgets/organization-widget.php:599
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1997
+msgid "Four Column"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:353
+#: admin/customizer/controls/all-campaign-page.php:591
+#: admin/customizer/controls/organization-page.php:783
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:43
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:78
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:269
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:309
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:404
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:437
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:485
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:633
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:883
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:1068
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:1101
+#: pagebuilders/elementor/widgets/organization-widget.php:75
+#: pagebuilders/elementor/widgets/organization-widget.php:146
+#: pagebuilders/elementor/widgets/organization-widget.php:688
+#: pagebuilders/elementor/widgets/organization-widget.php:747
+#: pagebuilders/elementor/widgets/organization-widget.php:919
+#: pagebuilders/elementor/widgets/organization-widget.php:1119
+#: pagebuilders/elementor/widgets/organization-widget.php:1152
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:54
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:324
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:390
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:456
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:519
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:632
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:665
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:786
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:998
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1148
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1181
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1221
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1348
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1564
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1595
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1632
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1652
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1713
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1855
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1886
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2062
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2145
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2317
+msgid "Background Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:368
+#: admin/customizer/controls/all-campaign-page.php:606
+#: admin/customizer/controls/organization-page.php:798
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:645
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:895
+#: pagebuilders/elementor/widgets/organization-widget.php:712
+#: pagebuilders/elementor/widgets/organization-widget.php:759
+#: pagebuilders/elementor/widgets/organization-widget.php:931
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2086
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2157
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2329
+msgid "Hover Background Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:386
+msgid "Image Width"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:405
+#: admin/customizer/controls/organization-page.php:552
+#: admin/customizer/controls/single-campaign-page.php:102
+msgid "Campaign Name Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:423
+#: admin/customizer/controls/organization-page.php:570
+#: admin/customizer/controls/single-campaign-page.php:120
+msgid "Campaign Name Font Size"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:442
+#: admin/customizer/controls/organization-page.php:589
+#: admin/customizer/controls/single-campaign-page.php:1103
+msgid "Campaign Description Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:460
+#: admin/customizer/controls/organization-page.php:607
+#: admin/customizer/controls/single-campaign-page.php:1121
+msgid "Campaign Description Font Size"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:479
+#: admin/customizer/controls/single-campaign-page.php:318
+msgid "Progress Bar Background Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:494
+msgid "Progress Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:509
+#: admin/customizer/controls/single-campaign-page.php:1170
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:962
+#: pagebuilders/elementor/widgets/organization-widget.php:998
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2396
+msgid "Raised Amount Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:524
+#: admin/customizer/controls/single-campaign-page.php:1207
+#: pagebuilders/elementor/widgets/organization-widget.php:986
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2384
+msgid "Target Amount Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:542
+msgid "Target & Raised Amount Font Size"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:558
+msgid "Load More Button"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:621
+#: admin/customizer/controls/organization-page.php:813
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:122
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:155
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:425
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:497
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:754
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:810
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:907
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:1089
+#: pagebuilders/elementor/widgets/organization-widget.php:265
+#: pagebuilders/elementor/widgets/organization-widget.php:299
+#: pagebuilders/elementor/widgets/organization-widget.php:330
+#: pagebuilders/elementor/widgets/organization-widget.php:361
+#: pagebuilders/elementor/widgets/organization-widget.php:571
+#: pagebuilders/elementor/widgets/organization-widget.php:790
+#: pagebuilders/elementor/widgets/organization-widget.php:846
+#: pagebuilders/elementor/widgets/organization-widget.php:943
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:192
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:238
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:270
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:531
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:620
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:838
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:868
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1010
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1233
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1297
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1327
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1360
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1424
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1454
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1663
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1693
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1724
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1754
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1969
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2188
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2244
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2341
+msgid "Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:636
+#: admin/customizer/controls/organization-page.php:828
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:766
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:822
+#: pagebuilders/elementor/widgets/organization-widget.php:802
+#: pagebuilders/elementor/widgets/organization-widget.php:858
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:282
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2200
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2256
+msgid "Hover Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:651
+#: admin/customizer/controls/organization-page.php:843
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:449
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:1113
+#: pagebuilders/elementor/widgets/organization-widget.php:1164
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:677
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1193
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1606
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1897
+msgid "Border Color"
+msgstr ""
+
+#: admin/customizer/controls/all-campaign-page.php:666
+#: admin/customizer/controls/organization-page.php:858
+msgid "Hover Border Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:10
+msgid "Organization"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:41
+#: pagebuilders/elementor/widgets/organization-widget.php:89
+msgid "Slider"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:77
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:861
+#: pagebuilders/elementor/widgets/organization-widget.php:201
+#: pagebuilders/elementor/widgets/organization-widget.php:897
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:501
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:906
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2295
+msgid "Height"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:94
+#: pagebuilders/elementor/widgets/organization-widget.php:138
+msgid "Organization Detail"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:112
+msgid "Section Background Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:130
+msgid "Organization Logo Size"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:149
+msgid "Name Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:167
+msgid "Name Font Size"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:186
+msgid "Address Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:201
+msgid "Social Media Heading Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:216
+msgid "Social Media Name Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:231
+msgid "Social Media Link Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:249
+msgid "Social Icon Size"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:308
+msgid "Title Text Transform"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:312
+#: admin/customizer/controls/organization-page.php:454
+#: admin/customizer/controls/single-campaign-page.php:146
+#: admin/customizer/controls/single-campaign-page.php:460
+#: admin/customizer/controls/single-campaign-page.php:968
+msgid "Uppercase"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:313
+#: admin/customizer/controls/organization-page.php:455
+#: admin/customizer/controls/single-campaign-page.php:147
+#: admin/customizer/controls/single-campaign-page.php:461
+#: admin/customizer/controls/single-campaign-page.php:969
+msgid "Capitalize"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:314
+#: admin/customizer/controls/organization-page.php:456
+#: admin/customizer/controls/single-campaign-page.php:148
+#: admin/customizer/controls/single-campaign-page.php:462
+#: admin/customizer/controls/single-campaign-page.php:970
+msgid "Lowercase"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:327
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:977
+msgid "Description Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:345
+msgid "Description Font Size"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:362
+#: pagebuilders/elementor/widgets/organization-widget.php:518
+#: pagebuilders/elementor/widgets/organization-widget.php:551
+#: public/partials/organization/template-one.php:109
+#: public/partials/organization/template-one.php:116
+#: public/partials/organization/template-two.php:91
+#: public/partials/organization/template-two.php:98
+msgid "Recent Campaign"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:394
+#: admin/customizer/controls/single-campaign-page.php:908
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:91
+#: pagebuilders/elementor/widgets/organization-widget.php:387
+#: pagebuilders/elementor/widgets/organization-widget.php:540
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:821
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1938
+msgid "Heading"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:413
+#: admin/customizer/controls/single-campaign-page.php:942
+msgid "Heading Font Size"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:432
+#: admin/customizer/controls/single-campaign-page.php:924
+#: pagebuilders/elementor/widgets/organization-widget.php:441
+msgid "Heading Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:450
+#: admin/customizer/controls/single-campaign-page.php:964
+msgid "Heading Text Transform"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:466
+#: admin/customizer/controls/single-campaign-page.php:980
+#: pagebuilders/elementor/widgets/organization-widget.php:584
+msgid "Campaign Card"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:487
+#: admin/customizer/controls/single-campaign-page.php:1001
+msgid "Campaign Grid Column"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:507
+#: admin/customizer/controls/single-campaign-page.php:1021
+msgid "Campaign Background Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:522
+#: admin/customizer/controls/single-campaign-page.php:1036
+msgid "Campaign Hover Background Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:537
+#: admin/customizer/controls/single-campaign-page.php:1051
+msgid "Campaign Image Background Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:626
+#: admin/customizer/controls/single-campaign-page.php:1140
+msgid "Campaign Progress Bar Background Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:641
+#: admin/customizer/controls/single-campaign-page.php:1155
+msgid "Campaign Progress Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:656
+msgid "Campaign Raised Amount Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:674
+msgid "Campaign Raised Amount Font Size"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:693
+msgid "Campaign Target Amount Color"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:705
+msgid "All Campaign Button"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:722
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:984
+#: pagebuilders/elementor/widgets/organization-widget.php:1019
+msgid "Hide Button"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:741
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:176
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:333
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:928
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:997
+#: pagebuilders/elementor/widgets/organization-widget.php:964
+#: pagebuilders/elementor/widgets/organization-widget.php:1032
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:552
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1067
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1483
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1774
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2362
+msgid "Padding"
+msgstr ""
+
+#: admin/customizer/controls/organization-page.php:757
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:188
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:362
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:575
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:699
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:1026
+#: pagebuilders/elementor/widgets/organization-widget.php:665
+#: pagebuilders/elementor/widgets/organization-widget.php:733
+#: pagebuilders/elementor/widgets/organization-widget.php:1072
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:583
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1107
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1523
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1814
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2039
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2131
+msgid "Border Radius"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:9
+msgid "Campaign"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:27
+msgid "Page background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:39
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:68
+msgid "Campaign Detail"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:57
+msgid "Campaign Gallery Image Border Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:72
+msgid "Campaign Gallery Image Background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:87
+msgid "Campaign Gallery Arrow Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:142
+msgid "Campaign Name Text Transform"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:161
+msgid "Campaign Status Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:176
+msgid "Organization Name Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:194
+msgid "Organization Name Font Size"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:213
+msgid "\"By\" Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:228
+msgid "Funding Goal background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:243
+msgid "Funding Goal Text Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:258
+msgid "Funding Raised background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:273
+msgid "Funding Raised Text Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:288
+msgid "Funding Duration background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:303
+msgid "Funding Duration Text Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:333
+msgid "Progress Bar Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:348
+msgid "Contribute Button Background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:363
+msgid "Contribute Button Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:378
+msgid "Contribute Button Border Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:393
+msgid "Contribute Button Hover Background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:408
+msgid "Contribute Button Hover Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:423
+msgid "Contribute Button Hover Border Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:431
+#: public/class-crowdfundly-public.php:684
+msgid "Contribute"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:437
+msgid "Contribute Button Text"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:456
+msgid "Contribute Button Text Transform"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:478
+msgid "Contribute Button Font Size"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:494
+msgid "Donation Popup"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:512
+msgid "Popup Background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:527
+msgid "Popup Preset Background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:542
+msgid "Popup Preset Hover Background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:557
+msgid "Popup Preset Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:572
+msgid "Popup Input Background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:587
+msgid "Popup Input Border Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:602
+msgid "Popup Active Button Background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:617
+msgid "Popup Active Button Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:632
+msgid "Popup Active Button Border Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:650
+msgid "Popup Active Button Font Size"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:666
+msgid "Tabs"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:684
+msgid "Tab Background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:699
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:713
+msgid "Tab Text Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:717
+msgid "Tab Text Font Size"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:736
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:749
+msgid "Active Tab Background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:751
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:737
+msgid "Active Tab Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:766
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:761
+msgid "Active Tab Border Bottom Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:781
+msgid "Tab Content Background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:796
+msgid "Tab Content Card Background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:811
+msgid "Activity Tab Button Background Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:826
+msgid "Activity Button Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:844
+msgid "Activity Button Font Size"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:863
+msgid "Activity Tab Border Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:876
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1916
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1949
+#: public/partials/single-campaign-template-parts/campaign-similar-camp.php:9
+#: public/partials/single-campaign-template-parts/campaign-similar-camp.php:15
+msgid "Similar Campaign"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:1066
+msgid "Campaign Title Color"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:1084
+msgid "Campaign Title Font Size"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:1188
+msgid "Raised Amount Font Size"
+msgstr ""
+
+#: admin/customizer/controls/single-campaign-page.php:1225
+msgid "Target Amount Font Size"
+msgstr ""
+
+#: admin/customizer/custom-controls/dimension-control.php:27
+msgid "Top"
+msgstr ""
+
+#: admin/customizer/custom-controls/dimension-control.php:46
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:553
+#: pagebuilders/elementor/widgets/organization-widget.php:619
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2017
+msgid "Right"
+msgstr ""
+
+#: admin/customizer/custom-controls/dimension-control.php:65
+msgid "Bottom"
+msgstr ""
+
+#: admin/customizer/custom-controls/dimension-control.php:84
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:545
+#: pagebuilders/elementor/widgets/organization-widget.php:611
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2009
+msgid "Left"
+msgstr ""
+
+#: admin/customizer/custom-controls/range-control.php:48
+msgid "Reset"
+msgstr ""
+
+#: admin/customizer/customizer.php:46
+#: admin/partials/crowdfundly-shortcodes-display.php:5
+msgid "Organization Page"
+msgstr ""
+
+#: admin/customizer/customizer.php:52
+msgid "All Campaign Page"
+msgstr ""
+
+#: admin/customizer/customizer.php:58
+#: admin/partials/crowdfundly-shortcodes-display.php:31
+msgid "Single Campaign Page"
+msgstr ""
+
+#: admin/customizer/customizer.php:68
+#: pagebuilders/elementor/crowdfundly-elementor.php:127
+#: pagebuilders/elementor/crowdfundly-elementor.php:153
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:35
+#: pagebuilders/elementor/widgets/organization-widget.php:67
+msgid "Crowdfundly"
+msgstr ""
+
+#: admin/customizer/customizer.php:69
+msgid "Crowdfundly Pages design."
+msgstr ""
+
+#: admin/includes/class-crowdfundly-page-template.php:59
+msgid "Crowdfundly Template"
+msgstr ""
+
+#: admin/includes/class-crowdfundly-settings.php:253
+msgid "Design on Customizer"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:5
+#: admin/includes/crowdfundly-settings-page-helper.php:43
+msgid "General"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:10
+#: admin/includes/crowdfundly-settings-page-helper.php:53
+#: admin/includes/crowdfundly-settings-page-helper.php:72
+msgid "General Settings"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:15
+#: admin/includes/crowdfundly-settings-page-helper.php:58
+msgid "API Key"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:24
+#: admin/includes/crowdfundly-settings-page-helper.php:29
+msgid "Design"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:47
+msgid "Logout"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:47
+msgid "Disconnect API"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:67
+msgid "Shortcodes"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:95
+msgid "WooCommerce Payment"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:97
+msgid "Enable to accept fund using WooCommerce payment gateway"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:101
+msgid "*You have to install WooCommerce to enable this feature"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:106
+msgid "Disable Automatic Create Shortcode Pages"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:108
+msgid "Disable automatic create shortcode pages"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:112
+msgid "Organization Page Slug"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:118
+msgid "All Campaign Page Slug"
+msgstr ""
+
+#: admin/includes/crowdfundly-settings-page-helper.php:124
+msgid "Single Campaign Page Slug"
+msgstr ""
+
+#: admin/includes/fields/crowdfundly-adv_checkbox.php:11
+msgid "Advanced Design"
+msgstr ""
+
+#: admin/partials/crowdfundly-dashboard.php:101
+#: public/class-crowdfundly-public.php:125
+msgid "Loading..."
+msgstr ""
+
+#: admin/partials/crowdfundly-settings-header.php:4
+msgid "Crowdfundly Logo"
+msgstr ""
+
+#: admin/partials/crowdfundly-settings-header.php:6
+#, php-format
+msgid "Build Your <strong>%s</strong> Platform"
+msgstr ""
+
+#: admin/partials/crowdfundly-settings-header.php:11
+msgid "Version:"
+msgstr ""
+
+#: admin/partials/crowdfundly-shortcodes-display.php:18
+msgid "All Campaigns Page"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:6
+#: pagebuilders/elementor/widgets/organization-widget.php:170
+msgid "Logo"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:11
+msgid "Auth banner image"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:17
+msgid "Start crowdfunding with greatly optimized fundraising process"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:20
+msgid "Welcome to the world of opportunities to collaboration"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:30
+#: admin/partials/crowdfunly-sign-in.php:31
+msgid "Don't have an account?"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:30
+msgid "Already have an account?"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:34
+#: admin/partials/crowdfunly-sign-in.php:94
+msgid "Sign In"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:34
+#: admin/partials/crowdfunly-sign-in.php:36
+#: admin/partials/crowdfunly-sign-in.php:154
+msgid "Sign Up"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:46
+#: admin/partials/crowdfunly-sign-in.php:49
+msgid "Connect with App Key"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:47
+msgid "Connect with Email"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:58
+msgid "APP Key"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:59
+msgid "Enter API key here"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:64
+msgid "Get APP Key"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:78
+msgid "Email address"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:82
+#: admin/partials/crowdfunly-sign-in.php:119
+msgid "Password"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:99
+msgid "Forgot password?"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:111
+msgid "Full Name"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:115
+#: admin/partials/crowdfunly-sign-in.php:163
+msgid "Email Address"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:123
+msgid "Confirm Password"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:132
+#, php-format
+msgid "%1$s %2$s %3$s %4$s %5$s"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:133
+msgid "By Creating An Account, I Accept The "
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:137
+msgid "Terms"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:139
+msgid " and "
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:143
+msgid "Privacy"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:145
+msgid " Conditions."
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:173
+msgid "Something went wrong, Please try again"
+msgstr ""
+
+#: admin/partials/crowdfunly-sign-in.php:176
+msgid "Send"
+msgstr ""
+
+#: includes/class-crowdfundly-api.php:365
+msgid "Not Authorized"
+msgstr ""
+
+#: includes/class-crowdfundly-api.php:375
+msgid "Internal Server Error"
+msgstr ""
+
+#: includes/class-crowdfundly-helper.php:443
+msgid "Invalid video URL !"
+msgstr ""
+
+#: pagebuilders/elementor/crowdfundly-elementor.php:152
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: pagebuilders/elementor/crowdfundly-elementor.php:154
+msgid "Elementor"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:16
+msgid "Crowdfundly All Campaign"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:99
+#: pagebuilders/elementor/widgets/organization-widget.php:548
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1946
+msgid "Heading Text"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:102
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:512
+#: public/partials/crowdfundly-all-campaigns-page.php:17
+#: public/partials/crowdfundly-all-campaigns-page.php:23
+msgid "Campaigns"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:113
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:209
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:745
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:801
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:941
+#: pagebuilders/elementor/widgets/organization-widget.php:253
+#: pagebuilders/elementor/widgets/organization-widget.php:287
+#: pagebuilders/elementor/widgets/organization-widget.php:321
+#: pagebuilders/elementor/widgets/organization-widget.php:352
+#: pagebuilders/elementor/widgets/organization-widget.php:562
+#: pagebuilders/elementor/widgets/organization-widget.php:781
+#: pagebuilders/elementor/widgets/organization-widget.php:837
+#: pagebuilders/elementor/widgets/organization-widget.php:977
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:183
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:261
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:315
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:381
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:447
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:829
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:859
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1288
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1318
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1415
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1445
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1684
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1745
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1960
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2179
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2235
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2375
+msgid "Typography"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:135
+msgid "Search Icon"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:143
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:225
+msgid "Font Size"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:168
+msgid "Search Input"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:218
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:391
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:1055
+#: pagebuilders/elementor/widgets/organization-widget.php:1107
+#: pagebuilders/elementor/widgets/organization-widget.php:1140
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:653
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1136
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1169
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1552
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1584
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1843
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1875
+msgid "Text Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:230
+msgid "Placeholder Text Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:246
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:384
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:1048
+#: pagebuilders/elementor/widgets/organization-widget.php:1100
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:613
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1129
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1545
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1836
+msgid "Normal"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:283
+msgid "Focus"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:325
+#: pagebuilders/elementor/widgets/organization-widget.php:1011
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1059
+msgid "Button"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:418
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:1082
+#: pagebuilders/elementor/widgets/organization-widget.php:1133
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:646
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1162
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1577
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1868
+msgid "Hover"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:468
+msgid "SortBy Dropdown"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:520
+msgid "Per Page"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:541
+#: pagebuilders/elementor/widgets/organization-widget.php:607
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2005
+msgid "Content Alignment"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:549
+#: pagebuilders/elementor/widgets/organization-widget.php:615
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2013
+msgid "Center"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:587
+#: pagebuilders/elementor/widgets/organization-widget.php:592
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1990
+msgid "Select Column"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:602
+msgid "Space Between Campaigns"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:658
+#: pagebuilders/elementor/widgets/organization-widget.php:701
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2075
+msgid "Hover Box Shadow"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:666
+#: pagebuilders/elementor/widgets/organization-widget.php:641
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2098
+msgid "Detail Section Padding"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:678
+#: pagebuilders/elementor/widgets/organization-widget.php:653
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2110
+msgid "Detail Section Height"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:691
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:880
+msgid "Image"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:713
+#: pagebuilders/elementor/widgets/organization-widget.php:110
+#: pagebuilders/elementor/widgets/organization-widget.php:178
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:888
+msgid "Width"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:736
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1279
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1406
+msgid "Name"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:779
+#: pagebuilders/elementor/widgets/organization-widget.php:343
+#: pagebuilders/elementor/widgets/organization-widget.php:815
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:947
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:968
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1309
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1436
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2213
+msgid "Description"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:787
+#: pagebuilders/elementor/widgets/organization-widget.php:823
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2221
+msgid "Hide Description"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:835
+#: pagebuilders/elementor/widgets/organization-widget.php:871
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:493
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2269
+msgid "Progress Bar"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:843
+#: pagebuilders/elementor/widgets/organization-widget.php:395
+#: pagebuilders/elementor/widgets/organization-widget.php:879
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:170
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:213
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2277
+msgid "Bottom Spacing"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:920
+msgid "Target amount"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:950
+msgid "Targe Amount Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/all-campaign-widget.php:976
+#: public/partials/crowdfundly-all-campaigns-page.php:122
+msgid "Load More"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:16
+msgid "Crowdfundly Organization"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:48
+#, php-format
+msgid "Hide %s"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:244
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:252
+msgid "Organization Name"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:278
+msgid "Address"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:376
+msgid "Social Media"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:413
+msgid "Space Between Icon & Text"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:432
+msgid "Heading Typography"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:453
+msgid "Icon Size"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:473
+msgid "Media Name Typography"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:482
+msgid "Media Name Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:495
+msgid "Media Link Typography"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:504
+msgid "Media Link Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:725
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2123
+msgid "Campaign Image"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:772
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:162
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2170
+msgid "Campaign Title"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/organization-widget.php:956
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:2354
+msgid "Target Amount"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:16
+msgid "Crowdfundly Single Campaign"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:35
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:706
+msgid "Common Settings"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:44
+msgid "Select Campaign"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:77
+msgid "Gallery"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:84
+msgid "Large Image Border Radius"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:99
+msgid "Large Image Background Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:111
+msgid "Large Image Border Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:123
+msgid "Thumbnail Border Radius"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:135
+msgid "Thumbnail Background Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:148
+msgid "Arrow Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:205
+msgid "Campaign Status"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:295
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:427
+#: public/partials/single-campaign-template-parts/campaign-detail.php:33
+msgid "Funding Goal"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:336
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:402
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:468
+msgid "Value Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:348
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:414
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:480
+msgid "Label Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:361
+msgid "Fund Raised"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:544
+msgid "Donation Button"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:697
+msgid "Tabs Common Settings"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:725
+msgid "Tab Count Text Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:774
+msgid "Tab Content Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:798
+msgid "Tab Border Background Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:812
+msgid "Campaign Story Tab"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:850
+msgid "Paragraph"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:926
+msgid "Update Tab"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:934
+msgid "Line Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:956
+msgid "Date Color"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:990
+msgid "Activites Tab"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1027
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1247
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1374
+msgid "Avatar"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1035
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1255
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1382
+msgid "Avatar Border Radius"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1213
+msgid "Endorsement Tab"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1340
+msgid "Top Contributors Tab"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1467
+msgid "Reward Tab"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1476
+msgid "Tab Button"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1644
+#: public/partials/single-campaign-template-parts/campaign-top-contributers.php:29
+msgid "Badge"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1675
+msgid "Product Name"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1705
+msgid "Stock Badge"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1736
+msgid "Offered Price"
+msgstr ""
+
+#: pagebuilders/elementor/widgets/single-campaign-widget.php:1766
+msgid "Get Now Button"
+msgstr ""
+
+#: public/class-crowdfundly-public.php:124
+#: public/partials/single-campaign-template-parts/campaign-activites-tab.php:74
+msgid "Load more"
+msgstr ""
+
+#: public/class-crowdfundly-public.php:232
+#: public/partials/crowdfundly-all-campaigns-page.php:87
+msgid "OF"
+msgstr ""
+
+#: public/class-crowdfundly-public.php:278
+#: public/partials/single-campaign-template-parts/campaign-activites-tab.php:20
+msgid "Anonymous Contributor"
+msgstr ""
+
+#: public/class-crowdfundly-public.php:282
+#: public/partials/single-campaign-template-parts/campaign-activites-tab.php:24
+msgid "has contributed"
+msgstr ""
+
+#: public/class-crowdfundly-public.php:291
+#: public/partials/single-campaign-template-parts/campaign-activites-tab.php:33
+#: public/partials/single-campaign-template-parts/campaign-top-contributers.php:21
+msgid "Amount:"
+msgstr ""
+
+#: public/class-crowdfundly-public.php:623
+msgid "Shipping Location"
+msgstr ""
+
+#: public/class-crowdfundly-public.php:631
+#: public/class-crowdfundly-public.php:632
+msgid "Shipping Address"
+msgstr ""
+
+#: public/class-crowdfundly-public.php:651
+msgid "Give Anonymously?"
+msgstr ""
+
+#: public/class-crowdfundly-public.php:665
+msgid "Select Shipping Location"
+msgstr ""
+
+#: public/class-crowdfundly-public.php:731
+msgid "Is anonymously?"
+msgstr ""
+
+#: public/class-crowdfundly-public.php:731
+msgid "Yes"
+msgstr ""
+
+#: public/class-crowdfundly-public.php:742
+msgid "Shipping Location is a required field."
+msgstr ""
+
+#: public/class-crowdfundly-public.php:760
+msgid "Shipping Fee"
+msgstr ""
+
+#: public/includes/class-crowdfundly-shortcode.php:264
+msgid "This campaign is in readonly view and publicly invisible."
+msgstr ""
+
+#: public/partials/crowdfundly-all-campaigns-page.php:34
+msgid "Search"
+msgstr ""
+
+#: public/partials/crowdfundly-all-campaigns-page.php:38
+msgid "Sort by"
+msgstr ""
+
+#: public/partials/crowdfundly-all-campaigns-page.php:39
+msgid "Trending"
+msgstr ""
+
+#: public/partials/crowdfundly-all-campaigns-page.php:40
+msgid "Almost there"
+msgstr ""
+
+#: public/partials/crowdfundly-all-campaigns-page.php:41
+msgid "Newest"
+msgstr ""
+
+#: public/partials/crowdfundly-all-campaigns-page.php:42
+msgid "Successful"
+msgstr ""
+
+#: public/partials/crowdfundly-all-campaigns-page.php:43
+msgid "Last updated"
+msgstr ""
+
+#: public/partials/crowdfundly-all-campaigns-page.php:101
+#: public/partials/single-campaign-template-parts/campaign-story-tab.php:20
+msgid "Sorry"
+msgstr ""
+
+#: public/partials/crowdfundly-all-campaigns-page.php:102
+msgid "No campaigns to show"
+msgstr ""
+
+#: public/partials/crowdfundly-single-campaign-page.php:45
+msgid "Campaign story"
+msgstr ""
+
+#: public/partials/crowdfundly-single-campaign-page.php:50
+msgid "Updates"
+msgstr ""
+
+#: public/partials/crowdfundly-single-campaign-page.php:55
+msgid "Activities"
+msgstr ""
+
+#: public/partials/crowdfundly-single-campaign-page.php:60
+msgid "Endorsements"
+msgstr ""
+
+#: public/partials/crowdfundly-single-campaign-page.php:65
+msgid "Top Contributors"
+msgstr ""
+
+#: public/partials/crowdfundly-single-campaign-page.php:71
+msgid "Select a reward"
+msgstr ""
+
+#: public/partials/organization/template-one.php:27
+#: public/partials/single-campaign-template-parts/campaign-gallery.php:23
+msgid "Slider image"
+msgstr ""
+
+#: public/partials/organization/template-one.php:63
+#: public/partials/organization/template-two.php:46
+msgid "Linked accounts"
+msgstr ""
+
+#: public/partials/organization/template-one.php:142
+#: public/partials/organization/template-two.php:15
+msgid "Campaign slider image"
+msgstr ""
+
+#: public/partials/organization/template-one.php:159
+#: public/partials/organization/template-two.php:139
+#: public/partials/single-campaign-template-parts/campaign-similar-camp.php:55
+#, php-format
+msgid "%1$d %2$s"
+msgstr ""
+
+#: public/partials/organization/template-one.php:161
+#: public/partials/organization/template-two.php:141
+#: public/partials/single-campaign-template-parts/campaign-similar-camp.php:57
+#, php-format
+msgid "OF %1$d %2$s"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-activites-tab.php:60
+msgid "No activities found for this campaign"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-contribute-modal.php:4
+msgid "Amount"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-contribute-modal.php:43
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:18
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:150
+msgid "Continue"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-contribute-modal.php:48
+msgid "Please select a preset amount or custom amount"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-detail.php:8
+msgid "Published"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-detail.php:19
+msgid "by"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-detail.php:43
+msgid "Funds Raised"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-detail.php:55
+msgid "Days to Go"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-detail.php:109
+msgid "Back It"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-detail.php:112
+msgid "Contribute Now"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-detail.php:116
+msgid "Target Date Exceed"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-endorsments-tab.php:20
+msgid "has endorsed as a"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-endorsments-tab.php:45
+msgid "No Endorsement found for this campaign"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-gallery.php:43
+msgid "Slider thumbniail"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:3
+msgid "Back this campaign"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:7
+msgid "Make a contribution"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:23
+msgid "Contributions are not associated with perks"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:30
+msgid "Select a Perk"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:43
+#: public/partials/single-campaign-template-parts/campaign-reward.php:14
+msgid "Only"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:43
+#: public/partials/single-campaign-template-parts/campaign-reward.php:14
+msgid "left"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:58
+#: public/partials/single-campaign-template-parts/campaign-reward.php:30
+msgid "Shipping"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:68
+#: public/partials/single-campaign-template-parts/campaign-reward.php:40
+msgid "Shipping location: "
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:74
+#: public/partials/single-campaign-template-parts/campaign-reward.php:46
+msgid "Shipping fee: "
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:94
+#: public/partials/single-campaign-template-parts/campaign-reward.php:76
+#: public/partials/single-campaign-template-parts/campaign-reward.php:82
+msgid "Get Now"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:102
+#: public/partials/single-campaign-template-parts/campaign-reward.php:95
+#, php-format
+msgid "%s OFF"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:121
+#, php-format
+msgid "%1$s %2$s %3$s"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-reward-modal.php:134
+msgid "Custom Amount"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-story-tab.php:23
+msgid "No story found"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-top-contributers.php:45
+msgid "Sorry no one has contributed yet."
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-updates-tab.php:36
+msgid "Campaign update image"
+msgstr ""
+
+#: public/partials/single-campaign-template-parts/campaign-updates-tab.php:51
+msgid "No Update Found"
+msgstr ""
+
+#: public/templates/crowdfundly-template.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
